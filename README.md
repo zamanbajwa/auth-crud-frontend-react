@@ -93,7 +93,12 @@ npm run build
 
 ## Screenshots
 
-image.png
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/57217083-518f-462b-9d78-e249e6dcb452" />
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/07f750ce-901b-4810-b12b-bd682a793ee7" />
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/ad2f18a2-f1b4-45fd-95d2-13db92b5aa6f" />
+
 
 ---
 
